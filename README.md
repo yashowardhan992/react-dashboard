@@ -68,3 +68,50 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+# Screenshots : 
+
+### Light and Dark Mode : 
+
+![supports light and dark mode](https://github.com/yashowardhan992/react-dashboard/assets/52581482/d62a643c-eea8-4baf-aae2-d354da2d1ec1)
+
+
+![dashboard with sidebar and other components](https://github.com/yashowardhan992/react-dashboard/assets/52581482/4c781d49-1144-4dd7-9011-c1c7e6b8ac30)
+
+
+### Displaying data using Data Grid :
+
+
+![contacts](https://github.com/yashowardhan992/react-dashboard/assets/52581482/8d656788-012c-4985-8d0e-1dbe05f9b8ea)
+
+
+![tables using data-grid](https://github.com/yashowardhan992/react-dashboard/assets/52581482/1058a7b6-355b-4eca-b3c3-f043baf1c73b)
+
+
+### Form with Validation using formik : 
+
+![forms with validation using formik](https://github.com/yashowardhan992/react-dashboard/assets/52581482/03b6506d-48dc-4930-80ca-4d1fff6ba521)
+
+
+### Charts Using Nivo : 
+
+![charts and map using nivo](https://github.com/yashowardhan992/react-dashboard/assets/52581482/18ad8358-1fd6-4336-a779-66dec1f439cd)
+
+
+
+Reference : EdRoh , YouTube : https://youtu.be/wYpCWwD1oz0
+
+
+
+
+
+
+
+
+
+
+
+
+
